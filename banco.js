@@ -1,5 +1,5 @@
 // banco.js - Sistema de Banco Virtual
-let nomeBanco = "BANCO DIGITAL PLUS"; // <- linha do conflito
+let nomeBanco = "BANCO VIRTUAL S.A"; // <- linha do conflito
 let contas = [];
 function criarConta(titular, saldoInicial) {
   let conta = { titular: titular, saldo: saldoInicial, ativa: true };
